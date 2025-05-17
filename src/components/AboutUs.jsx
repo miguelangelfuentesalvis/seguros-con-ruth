@@ -28,7 +28,7 @@ export default function AboutUs() {
                     </div>
                     <div className="md:w-1/2 lg:w-1/2 xl:w-1/2 flex justify-center">
                         <div className="px-12 flex items-center justify-center w-full h-80">
-                            <img className="w-50 h-80 lg:w-70 xl:w-70 lg:h-100 xl:h-100" src="public/ruth.jpg" alt="ruth" />
+                            <img className="w-50 h-80 lg:w-70 xl:w-70 lg:h-100 xl:h-100" src="/ruth.jpg" alt="ruth" />
                         </div>
                     </div>
                 </div>
