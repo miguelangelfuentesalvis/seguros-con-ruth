@@ -8,6 +8,7 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: "/seguro-con-ruth",
   define: {
     'process.env': {},
     global: 'window',
