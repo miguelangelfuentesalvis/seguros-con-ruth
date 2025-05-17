@@ -12,7 +12,7 @@ export default function Navbar() {
     <nav className="bg-[#196172] text-white py-4 px-6 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
         <a href="#" className="flex items-center gap-2">
-          <img className="h-8 w-auto" src="/logo.png" alt="Ruth Seguros" />
+          <img className="h-8 w-auto" src="/logo1.png" alt="Ruth Seguros" />
           <span className="font-bold text-xl">Seguros con Ruth</span>
         </a>
 
@@ -56,7 +56,7 @@ export default function Navbar() {
               Servicios
             </a>
             <a href="#nosotros" className="text-white hover:text-gray-300" onClick={toggleMenu}>
-              Nosotros
+              Sobre mí
             </a>
             <a href="#testimonios" className="text-white hover:text-gray-300" onClick={toggleMenu}>
               Testimonios

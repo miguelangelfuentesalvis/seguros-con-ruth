@@ -16,11 +16,11 @@ export default function AboutUs() {
                             reciban la mejor protección al precio más competitivo.
                         </p>
                         <p className="text-gray-700 mb-6">
-                            Lo que me distingue es mi compromiso con las relaciones personales. No soy solo agentes de
+                            Lo que me distingue es mi compromiso con las relaciones personales. No soy solo agente de
                             seguros; soy asesora dedicada a tu bienestar a largo plazo.
                         </p>
                         <a
-                            href="#nosotros"
+                            href="#servicios"
                             className="bg-[#196172] hover:bg-[#337f8c] text-white font-medium py-2 px-6 rounded-full inline-block transition-colors"
                         >
                             Conoce más

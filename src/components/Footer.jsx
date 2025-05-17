@@ -15,7 +15,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-8">
           <div>
             <a href="#" className="inline-block mb-4 items-center">
-              <FaShieldAlt className="text-white text-3xl mr-2" />
+              <img className="h-8 w-auto" src="/logo1.png" alt="Ruth Seguros" />
               <span className="font-bold text-xl">Seguros con Ruth</span>
             </a>
             <p className="text-gray-300 mb-4">

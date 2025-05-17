@@ -10,14 +10,14 @@ export default function Home() {
     <div>
       <Hero />
 
-      <section id="citas" className="py-16 bg-white">
+   {/*    <section id="citas" className="py-16 bg-white">
         <div className="container mx-auto px-6">
           <div className="max-w-3xl mx-auto">
             <h2 className="text-3xl font-bold text-center mb-12">Agenda tu cita</h2>
             <CalendarIntegration />
           </div>
         </div>
-      </section>
+      </section> */}
 
       <Services />
       <AboutUs />
